@@ -2,7 +2,7 @@
 
 - 👨🏻‍💻 Trabalho como monitor de sistemas de segurança eletrônica.
 - 🌱 Atualmente estou aprendendo mais sobre HTML5, CSS3 e Javascript através do programa Oracle Next Education na Alura.
-- 🕹️ Aprendi programação desenvolvendo jogos 3D com Unity e C#.
+- 🕹️ Retomei a programação desenvolvendo jogos 3D com Unity e C#.
 - 📫 Entre em contato: vinivasq@hotmail.com
 
 <div align="center">
