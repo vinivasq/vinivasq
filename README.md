@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-- 👨🏻‍💻 Desenvolvedor de Software na Josapar.
+- 👨🏻‍💻 Desenvolvedor de Software Fullstack.
 - 🌱 Atualmente estou aprendendo mais sobre C# com .NET e EF assim como Typescript com Angular no front-end.
-- 🕹️ Retomei a programação desenvolvendo jogos 3D com Unity e C#.
 - 📫 Entre em contato: vinivasq@hotmail.com
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/vinivasq/">
+  <a href="https://www.linkedin.com/in/vinivasq/"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinivasq&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinivasq&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -30,5 +29,3 @@
     <a href="https://instagram.com/vinivasq" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   </div>
   
-  ![Snake animation](https://github.com/vinivasq/vinivasq/blob/output/github-contribution-grid-snake.svg)
-
